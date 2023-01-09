@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://project-1-9yp9gaoin-xyc2017.vercel.app/",
+      "git": "https://github.com/xyc2017/Project-1",
+      "image": "https://i.imgur.com/45ddhdO.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://project-2-z8gb.onrender.com/user/login",
+      "git": "https://github.com/xyc2017/Project-2",
+      "image": "https://i.imgur.com/3jx1bgf.png"
+    }
+  ]
